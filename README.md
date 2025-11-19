@@ -19,6 +19,5 @@ Key Pages:
 - Git: For version control.
 
 📝 Author
-Fitrah Humaira Student, INFO 2302 Web Technology
-
+Fitrah Nur Humaira
 **This project is for educational purposes.**
