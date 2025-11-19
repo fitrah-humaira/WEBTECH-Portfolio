@@ -20,8 +20,10 @@ Key Pages:
 - CSS3: For styling, layout (Flexbox/Grid), and visual aesthetics.
 - Git: For version control.
 
-📝 Author
 
-Fitrah Nur Humaira
 
-**This project is for educational purposes.**
+***📝 Author***
+
+***Fitrah Nur Humaira***
+
+***This project is for educational purposes.***
