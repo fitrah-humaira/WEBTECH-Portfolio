@@ -1,4 +1,4 @@
-#Personal Portfolio Website
+**Personal Portfolio Website**
 
 A personal portfolio website developed as a submission for the **INFO 2302 Web Technology** course. This project demonstrates the use of semantic HTML5 and CSS3 to create a multi-page static website that highlights personal information, educational background, and interests.
 
